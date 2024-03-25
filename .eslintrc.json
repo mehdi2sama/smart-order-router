@@ -28,7 +28,7 @@
     ],
     "sort-imports": [
       "error",
-      { "ignoreDeclarationSort": true, "ignoreCase": true }
+      { "ignoreDeclarationSort": true, "ignoreCase": false }
     ],
     "no-restricted-imports": [
       "error",
